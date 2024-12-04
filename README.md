@@ -148,4 +148,4 @@ If you use Otozu in your research, please cite:
 
 ---
 
-Built with 🎵 by an engineer who got tired of writing the same spectrogram conversion code over and over again.
+Built with 🎵 by an engineer who got tired of writing the same spectrogram conversion code over and over again. Bulk of code was taken from my sneeze detector, Kushami.
