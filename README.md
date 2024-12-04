@@ -142,7 +142,7 @@ If you use Otozu in your research, please cite:
   title = {Otozu: Audio Spectrogram Conversion Library},
   author = {Yamashiro, John},
   year = {2024},
-  url = {https://github.com/yourusername/otozu}
+  url = {https://github.com/jyaaan/otozu}
 }
 ```
 
